@@ -14,9 +14,8 @@ Summary: Reads Windows BMP format images. Currently limited to 8 bit greyscale i
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-bmp-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-bmp-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-bmp-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-bmp-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-bmp-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-bmp-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-bmp-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-bmp-feedstock)
 
 Current release info
 ====================
