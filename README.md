@@ -1,11 +1,11 @@
-About r-bmp
-===========
+About r-bmp-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-bmp-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=bmp
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-bmp-feedstock/blob/main/LICENSE.txt)
 
 Summary: Reads Windows BMP format images. Currently limited to 8 bit greyscale images and 24,32 bit (A)RGB images. Pure R implementation without external dependencies.
 
